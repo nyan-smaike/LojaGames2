@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{A39D15A9-52A1-42E8-8D02-10AD7A8D42BF}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "banco novo", "..\..\..\OneDrive - SENAC-SC\banco novo\", "{9556F849-98A4-4494-A1F0-FBA2485B11E1}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54235"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive - SENAC-SC\banco novo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54235\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54235"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive - SENAC-SC\banco novo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54235\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54235"
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "..\..\..\OneDrive - SENAC-SC\WebApplication1\WebApplication1\WebApplication1.csproj", "{03C032DB-2152-4D24-B5AE-EEEC0342DE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A39D15A9-52A1-42E8-8D02-10AD7A8D42BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39D15A9-52A1-42E8-8D02-10AD7A8D42BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39D15A9-52A1-42E8-8D02-10AD7A8D42BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39D15A9-52A1-42E8-8D02-10AD7A8D42BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9556F849-98A4-4494-A1F0-FBA2485B11E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9556F849-98A4-4494-A1F0-FBA2485B11E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9556F849-98A4-4494-A1F0-FBA2485B11E1}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{9556F849-98A4-4494-A1F0-FBA2485B11E1}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{03C032DB-2152-4D24-B5AE-EEEC0342DE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C032DB-2152-4D24-B5AE-EEEC0342DE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C032DB-2152-4D24-B5AE-EEEC0342DE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C032DB-2152-4D24-B5AE-EEEC0342DE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7018C72C-0758-4CB3-9A73-23629623189D}
+	EndGlobalSection
+EndGlobal
